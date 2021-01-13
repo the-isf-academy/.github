@@ -1,0 +1,11 @@
+{
+    "name": "Tweet On Push",
+    "description": "Runs the send_tweet.py file inside a repository when a new push is made.",
+    "iconName": "twitter-icon",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "send_tweet.py"
+    ]
+}
